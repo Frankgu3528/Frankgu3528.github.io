@@ -41,3 +41,6 @@ My research interest includes natural language processing and time Series data m
 
 # 💻 Internships
 - *2023.07 - 2023.08*, Ping An Insurance (Group) Company of China, Ltd
+
+# 🎹 Interesting Things!
+- Besides study and research, I am interested in Photography and Traveling. I like to use film to take photos, which is an "old school" way. And I dream to travel around the world following the route in Verne's [book](https://images.app.goo.gl/mKQxSwwmPfF4N3RT6).

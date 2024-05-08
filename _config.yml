@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Frank Gu (顾格非)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Zhejiang University"
+  bio              : "Undergraduate at Zhejiang University"
   location         : "Hongzhou, China"
   employer         :
   pubmed           : 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "Frankgu3528"
   vine             :
   weibo            :
   xing             :

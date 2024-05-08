@@ -19,15 +19,16 @@ redirect_from:
 
 I am an undergraduate at Zhejiang University, majoring in statistics. I have worked with Prof. [Yang Yang](http://yangy.org/) and Prof. [Xiaoye Miao](https://person.zju.edu.cn/en/miaoxy_en#0) on several projects about time series mining. Currently, I am work with [YaleNLP](https://yale-nlp.github.io/) group on building benchmarks for LLM evaluations. 
 
-My research interest includes text & time Series data mining, building large scale foundation models and designing useful tools using large language models.
+My research interest includes natural language processing and time Series data mining, building large scale foundation models and designing useful tools with large language models.
 
 # 🔥 News
-- *2024.01*: &nbsp; I will become a visiting student at Yale University, working with [https://armancohan.com/](Arman Cohan)!
+- *2024.01*: &nbsp; I will become a visiting student at Yale University, working with [Arman Cohan](https://armancohan.com/)!
 - *2024.01*: &nbsp; Starting my journey as an exchange student at HKUST!
 
 # 📝 Publications
 <!-- simple paper -->
-- `Under Review` [Brant-2: Foundation Model for Brain Signals](https://arxiv.org/abs/2402.10251) Zhizhang Yuan, Daoze Zhang, Junru Chen, **Gefei Gu**, Yang Yang
+- `Under Review` [Brant-2: Foundation Model for Brain Signals](https://arxiv.org/abs/2402.10251)
+    Zhizhang Yuan, Daoze Zhang, Junru Chen, **Gefei Gu**, Yang Yang
 
 # 🎖 Honors and Awards
 - *2023.10* Outstanding Student, Zhejiang University

@@ -19,10 +19,10 @@ redirect_from:
 
 I am an undergraduate at Zhejiang University, majoring in statistics. I have worked with Prof. [Yang Yang](http://yangy.org/) and Prof. [Xiaoye Miao](https://person.zju.edu.cn/en/miaoxy_en#0) on several projects about time series mining. Currently, I am work with [YaleNLP](https://yale-nlp.github.io/) group on building benchmarks for LLM evaluations. 
 
-My research interest includes natural language processing and time Series data mining, building large scale foundation models and designing useful tools with large language models.
+My research interest includes natural language processing and time series data mining, building large scale foundation models and designing useful tools with large language models.
 
 # 🔥 News
-- *2024.01*: &nbsp; I will become a visiting student at Yale University, working with [Arman Cohan](https://armancohan.com/)!
+- *2024.05*: &nbsp; I will become a visiting student at Yale University starting from July, working with [Arman Cohan](https://armancohan.com/)!
 - *2024.01*: &nbsp; Starting my journey as an exchange student at HKUST!
 
 # 📝 Publications

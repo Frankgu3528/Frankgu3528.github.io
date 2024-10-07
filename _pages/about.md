@@ -22,12 +22,13 @@ I am an undergraduate at Zhejiang University, majoring in statistics. I have wor
 My research interest includes natural language processing and time series data mining. I am broadly interested in LLM reasoning and evaluation. 
 
 # 🔥 News
+- *2024.10*: &nbsp; New first-author paper “TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation" has been accepted by EMNLP 2024 (Demo Track). 
 - *2024.07*: &nbsp; Start as a visiting student at Yale University, working with [Arman Cohan](https://armancohan.com/)!
 - *2024.01*: &nbsp; Start my journey as an exchange student at HKUST!
 
 # 📝 Publications
 <!-- simple paper -->
-- `EMNLP 2024 (Demo Track)` [TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation]
+- `EMNLP 2024 (Demo Track)` TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation
     **Gefei Gu**, Yilun Zhao, Ruoxi Ning, Yanan Zheng, Arman Cohan
 
 - `Preprint` BrainWave: A Brain Signal Foundation Model for Clinical Applications (https://arxiv.org/abs/2402.10251)

@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate at Zhejiang University, majoring in statistics. I have worked with Prof. [Yang Yang](http://yangy.org/) and Prof. [Xiaoye Miao](https://person.zju.edu.cn/en/miaoxy_en#0) on several projects about time series mining. Currently, I am work with [YaleNLP](https://yale-nlp.github.io/) group on for LLM evaluations and information retrieval. 
+I am an undergraduate at Zhejiang University, majoring in statistics. I have worked with Prof. [Yang Yang](http://yangy.org/) and Prof. [Xiaoye Miao](https://person.zju.edu.cn/en/miaoxy_en#0) on several projects about time series mining. Currently, I am working with [YaleNLP](https://yale-nlp.github.io/) group on for LLM evaluations and information retrieval. 
 
-I am broadly interested in natural language processing. My main interestes lies in:
+I am broadly interested in natural language processing. My main interest lies in:
 (1) Model Evaluation: Detecting hallucination, benchmark long-context, instruction-following abilities.
 (2) Complex Reasoning: Exploring improved approaches for mathematical and domain-specific reasoning.
 I'm also interested in building AI applications and expanding my research into other modalities, such as vision and sequential data.

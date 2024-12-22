@@ -37,8 +37,8 @@ I'm also interested in building AI applications and expanding my research into o
 <div class='paper-box-text' >
 
 Ref-Long: Benchmarking the Long-context Referencing Capability of Long-context Language Models
-
-Junjie Wu*, **Gefei Gu***, Yanan Zheng, Dit-Yan Yeung, Arman Cohan 
+<br><br> <!-- 添加换行 -->
+  Junjie Wu*, <strong>Gefei Gu*</strong>, Yanan Zheng, Dit-Yan Yeung, Arman Cohan 
 </div>
 </div>
 

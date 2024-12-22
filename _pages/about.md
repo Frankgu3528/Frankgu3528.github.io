@@ -33,7 +33,7 @@ I'm also interested in building AI applications and expanding my research into o
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='img/novelQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/relong.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' >
 
 Ref-Long: Benchmarking the Long-context Referencing Capability of Long-context Language Models
@@ -42,7 +42,7 @@ Junjie Wu*, **Gefei Gu**\*, Yanan Zheng, Dit-Yan Yeung, Arman Cohan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 (Demo Track)</div><img src='img/TAIL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 (Demo Track)</div><img src='images/TAIL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation](https://aclanthology.org/2024.emnlp-demo.21/)

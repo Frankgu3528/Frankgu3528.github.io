@@ -33,7 +33,7 @@ I'm also interested in building AI applications and expanding my research into o
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/relong.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/reflong.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' >
 
 Ref-Long: Benchmarking the Long-context Referencing Capability of Long-context Language Models
@@ -54,7 +54,7 @@ Junjie Wu*, **Gefei Gu**\*, Yanan Zheng, Dit-Yan Yeung, Arman Cohan
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='img/brainwave.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/brainwave.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BrainWave: A Brain Signal Foundation Model for Clinical Applications](https://arxiv.org/pdf/2402.10251)

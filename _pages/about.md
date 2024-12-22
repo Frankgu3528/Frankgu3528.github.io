@@ -31,12 +31,41 @@ I'm also interested in building AI applications and expanding my research into o
 - *2024.01*: &nbsp; Start my journey as an exchange student at HKUST!
 
 # 📝 Publications
-<!-- simple paper -->
-- `EMNLP 2024 (Demo Track)` TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation
-    **Gefei Gu**, Yilun Zhao, Ruoxi Ning, Yanan Zheng, Arman Cohan
 
-- `Preprint` BrainWave: A Brain Signal Foundation Model for Clinical Applications (https://arxiv.org/abs/2402.10251)
-    Zhizhang Yuan, Fanqi Shen, Meng Li, Yuguo Yu, **Gefei Gu**, Fei Wu, Chenhao Tan, Yang Yang 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/reflong.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Ref-Long: Benchmarking the Long-context Referencing Capability of Long-context Language Models
+
+Junjie Wu*, Gefei Gu*, Yanan Zheng, Dit-Yan Yeung, Arman Cohan 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 (Demo Track)</div><img src='images/TAIL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation](https://aclanthology.org/2024.emnlp-demo.21/)
+
+**Gefei Gu**, Yilun Zhao, Ruoxi Ning, Yanan Zheng, Arman Cohan.
+
+[**TAIL User Guide**](https://nlp.cs.yale.edu/TAIL/) Feel free to use our toolkit!
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/brainwave.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BrainWave: A Brain Signal Foundation Model for Clinical Applications](https://arxiv.org/pdf/2402.10251)
+
+Zhizhang Yuan, Fanqi Shen, Meng Li, Yuguo Yu, **Gefei Gu**, Fei Wu, Chenhao Tan, Yang Yang 
+</div>
+</div>
+<!-- simple paper -->
+
+  
+- `Preprint` 
+
 
 
 # 🎖 Honors and Awards

@@ -25,6 +25,7 @@ I am broadly interested in natural language processing. My main interest lies in
 I'm also interested in building AI applications and expanding my research into other modalities, such as vision and sequential data.
 
 # 🔥 News
+- *2024.12*: &nbsp; Submitted a new co-first author paper to ACL Rolling Review! 
 - *2024.11*: &nbsp; I am going to present our work in-person at Miami, FL on EMNLP conference!
 - *2024.10*: &nbsp; New first-author paper “TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation" has been accepted by EMNLP 2024 (Demo Track). 
 - *2024.07*: &nbsp; Start as a visiting student at Yale University, working with [Arman Cohan](https://armancohan.com/)!
@@ -32,7 +33,7 @@ I'm also interested in building AI applications and expanding my research into o
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/reflong.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='img/reflong.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Ref-Long: Benchmarking the Long-context Referencing Capability of Long-context Language Models

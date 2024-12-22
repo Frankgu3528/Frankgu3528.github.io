@@ -33,8 +33,8 @@ I'm also interested in building AI applications and expanding my research into o
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='img/android-chrome-512x512.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='img/novelQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' >
 
 Ref-Long: Benchmarking the Long-context Referencing Capability of Long-context Language Models
 

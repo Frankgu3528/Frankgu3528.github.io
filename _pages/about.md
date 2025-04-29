@@ -21,11 +21,11 @@ I am currently an undergraduate student at Zhejiang University, majoring in Stat
 
 Previously, I collaborated with [YaleNLP](https://yale-nlp.github.io/) group on LLM evaluations and information retrieval. I have also worked with Prof. [Yang Yang](http://yangy.org/) on AI4Science (Foundation models for brain signal decoding, COOL!).
 
-### Have a Chat with Frank!
-
+## Have a Coffee Chat with Frank!
+Frank is open to coffee chat, including technical exchanges, career path, discussions on academic research, web3, trading or interesting things (photography, traveling) and more. It can be online or face to face, just drop an email or DM me.
 
 # 🔥 News
-- *2025.3*: &nbsp; Joining Alibaba Group as a Research Intern!
+- *2025.03*: &nbsp; Joining Alibaba Group as a Research Intern!
 - *2024.12*: &nbsp; Submitted a new co-first author paper to ACL Rolling Review! 
 - *2024.11*: &nbsp; Going to present our work in-person at Miami, FL at EMNLP conference!
 - *2024.10*: &nbsp; New first-author paper “TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation" has been accepted by EMNLP 2024 (Demo Track). 

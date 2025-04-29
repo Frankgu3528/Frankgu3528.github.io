@@ -17,16 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate at Zhejiang University, majoring in statistics. I have worked with Prof. [Yang Yang](http://yangy.org/) and Prof. [Xiaoye Miao](https://person.zju.edu.cn/en/miaoxy_en#0) on several projects about time series mining. Currently, I am working with [YaleNLP](https://yale-nlp.github.io/) group on for LLM evaluations and information retrieval. 
+I am currently an undergraduate student at Zhejiang University, majoring in Statistics, and will be joining the Language Technologies Institute at the School of Computer Science at Carnegie Mellon University as a master’s student soon. I am now working as a research intern at Alibaba Group, focusing on large-scale reinforcement learning to enhance the agentic product search capabilities of LLMs.
 
-I am broadly interested in natural language processing. My main interest lies in:
-(1) Model Evaluation: Detecting hallucination, benchmark long-context, instruction-following abilities.
-(2) Complex Reasoning: Exploring improved approaches for mathematical and domain-specific reasoning.
-I'm also interested in building AI applications and expanding my research into other modalities, such as vision and sequential data.
+Previously, I collaborated with [YaleNLP](https://yale-nlp.github.io/) group on LLM evaluations and information retrieval. I have also worked with Prof. [Yang Yang](http://yangy.org/) on AI4Science (Foundation models for brain signal decoding, COOL!).
+
+### Have a Chat with Frank!
+
 
 # 🔥 News
+- *2025.3*: &nbsp; Joining Alibaba Group as a Research Intern!
 - *2024.12*: &nbsp; Submitted a new co-first author paper to ACL Rolling Review! 
-- *2024.11*: &nbsp; I am going to present our work in-person at Miami, FL on EMNLP conference!
+- *2024.11*: &nbsp; Going to present our work in-person at Miami, FL at EMNLP conference!
 - *2024.10*: &nbsp; New first-author paper “TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation" has been accepted by EMNLP 2024 (Demo Track). 
 - *2024.07*: &nbsp; Start as a visiting student at Yale University, working with [Arman Cohan](https://armancohan.com/)!
 - *2024.01*: &nbsp; Start my journey as an exchange student at HKUST!
@@ -78,6 +79,7 @@ Zhizhang Yuan, Fanqi Shen, Meng Li, Yuguo Yu, **Gefei Gu**, Fei Wu, Chenhao Tan,
 
 # 💻 Internships
 - *2023.07 - 2023.08*, Ping An Insurance (Group) Company of China, Ltd
+- *2025.03 - 2025.07*, Alibaba Inc.
 
 # 🎹 Interesting Things!
 - Besides study and research, I am interested in Photography and Trading. 

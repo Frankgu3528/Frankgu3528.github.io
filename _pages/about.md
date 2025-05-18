@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student at Zhejiang University, majoring in Statistics, and will be joining the Language Technologies Institute at the School of Computer Science at Carnegie Mellon University as a master’s student soon. I am now working as a research intern at Alibaba Group, focusing on large-scale reinforcement learning to enhance the agentic product search capabilities of LLMs.
+I am currently an undergraduate student at **Zhejiang University**, majoring in Statistics, and will be joining the Language Technologies Institute at the School of Computer Science at **Carnegie Mellon University** as a master’s student soon. I am now working as a research intern at Alibaba Group, focusing on large-scale reinforcement learning to enhance the agentic product search capabilities of LLMs.
 
 Previously, I collaborated with [YaleNLP](https://yale-nlp.github.io/) group on LLM evaluations and information retrieval. I have also worked with Prof. [Yang Yang](http://yangy.org/) on AI4Science (Foundation models for brain signal decoding, COOL!).
 
@@ -25,8 +25,8 @@ Previously, I collaborated with [YaleNLP](https://yale-nlp.github.io/) group on 
 Frank is open to coffee chat, including technical exchanges, career path, discussions on academic research, web3, trading or interesting things (photography, traveling) and more. It can be online or face to face, just drop an email or DM me.
 
 # 🔥 News
+- *2025.05*: &nbsp; One Paper (Ref-long) accepted by ACL main!
 - *2025.03*: &nbsp; Joining Alibaba Group as a Research Intern!
-- *2024.12*: &nbsp; Submitted a new co-first author paper to ACL Rolling Review! 
 - *2024.11*: &nbsp; Going to present our work in-person at Miami, FL at EMNLP conference!
 - *2024.10*: &nbsp; New first-author paper “TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation" has been accepted by EMNLP 2024 (Demo Track). 
 - *2024.07*: &nbsp; Start as a visiting student at Yale University, working with [Arman Cohan](https://armancohan.com/)!
@@ -34,7 +34,7 @@ Frank is open to coffee chat, including technical exchanges, career path, discus
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/reflong.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images/reflong.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' >
 
 Ref-Long: Benchmarking the Long-context Referencing Capability of Long-context Language Models

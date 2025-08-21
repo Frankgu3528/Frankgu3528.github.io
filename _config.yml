@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Frank Gu (顾格非)"
-description              :  "Zhejiang University "
+title                    : "Gefei(Frank) Gu"
+description              :  "Master Student at CMU"
 repository               : "Frankgu3528/Frankgu3528.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Frank Gu (顾格非)"
+  name             : "Gefei(Frank) Gu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Undergraduate at Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "Master Student at CMU"
+  location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "frankgu@zju.edu.cn"
+  email            : "frankgu3528@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

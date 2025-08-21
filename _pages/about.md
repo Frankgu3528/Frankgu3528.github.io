@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About Me
+
 I am currently a master’s student at **Carnegie Mellon University** in the Language Technologies Institute. I previously completed my undergraduate studies in Statistics at **Zhejiang University**. I have worked as a research intern at Alibaba Group, focusing on large-scale reinforcement learning to enhance the agentic search capabilities of LLMs.
 
 Previously, I have worked with Prof. [Arman Cohan](https://armancohan.com/) and the [YaleNLP](https://yale-nlp.github.io/) group on LLM evaluations and information retrieval. I have also worked with Prof. [Yang Yang](http://yangy.org/) on AI4Science (Foundation models for brain signal decoding).

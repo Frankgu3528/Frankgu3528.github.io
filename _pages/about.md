@@ -17,27 +17,36 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student at **Zhejiang University**, majoring in Statistics, and will be joining the Language Technologies Institute at the School of Computer Science at **Carnegie Mellon University** as a master’s student soon. I am now working as a research intern at Alibaba Group, focusing on large-scale reinforcement learning to enhance the agentic product search capabilities of LLMs.
+I am currently a master’s student at **Carnegie Mellon University** in the Language Technologies Institute. I previously completed my undergraduate studies in Statistics at Zhejiang University. I have worked as a research intern at Alibaba Group, focusing on large-scale reinforcement learning to enhance the agentic search capabilities of LLMs.
 
-Previously, I collaborated with [YaleNLP](https://yale-nlp.github.io/) group on LLM evaluations and information retrieval. I have also worked with Prof. [Yang Yang](http://yangy.org/) on AI4Science (Foundation models for brain signal decoding, COOL!).
+Previously, I have worked with Prof. [Arman Cohan](https://armancohan.com/) and the [YaleNLP](https://yale-nlp.github.io/) group on LLM evaluations and information retrieval. I have also worked with Prof. [Yang Yang](http://yangy.org/) on AI4Science (Foundation models for brain signal decoding).
 
-## Have a Coffee Chat with Frank!
-Frank is open to coffee chat, including technical exchanges, career path, discussions on academic research, web3, trading or interesting things (photography, traveling) and more. It can be online or face to face, just drop an email or DM me.
 
 # 🔥 News
+- *2025.08*: &nbsp; Serving as a reviewer for EMNLP Demo Track.
+- *2025.06*: &nbsp; One Paper (Product-Searcher) submitted to EMNLP Industry Track!
 - *2025.05*: &nbsp; One Paper (Ref-long) accepted by ACL main!
 - *2025.03*: &nbsp; Joining Alibaba Group as a Research Intern!
-- *2024.11*: &nbsp; Going to present our work in-person at Miami, FL at EMNLP conference!
-- *2024.10*: &nbsp; New first-author paper “TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation" has been accepted by EMNLP 2024 (Demo Track). 
+- *2024.11*: &nbsp; Present our work in-person at Miami, FL at EMNLP conference!
+- *2024.10*: &nbsp; New paper “TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation" has been accepted by EMNLP 2024 (Demo Track). 
 - *2024.07*: &nbsp; Start as a visiting student at Yale University, working with [Arman Cohan](https://armancohan.com/)!
 - *2024.01*: &nbsp; Start my journey as an exchange student at HKUST!
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/accio.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' >
+
+Product-Searcher: Real-World E-commerce Product DeepSearch via Reinforcement Learning
+<br><br> <!-- 添加换行 -->
+  <strong>Gefei Gu*</strong>, Wenhui Chen, Qiankun Shi, WangZhenhai, Xuanzhou Liu, Weiqi Wang, Chenhao Ding, Guannan Zhang
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Main</div><img src='images/reflong.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' >
 
-Ref-Long: Benchmarking the Long-context Referencing Capability of Long-context Language Models
+[Ref-Long: Benchmarking the Long-context Referencing Capability of Long-context Language Models](https://arxiv.org/pdf/2507.09506)
 <br><br> <!-- 添加换行 -->
   Junjie Wu*, <strong>Gefei Gu*</strong>, Yanan Zheng, Dit-Yan Yeung, Arman Cohan 
 </div>
@@ -83,3 +92,12 @@ Zhizhang Yuan, Fanqi Shen, Meng Li, Yuguo Yu, **Gefei Gu**, Fei Wu, Chenhao Tan,
 
 # 🎹 Interesting Things!
 - Besides study and research, I am interested in Photography and Trading. 
+
+# 🎹 Collaborations:
+
+* Yilun Zhao
+* Tianyu Liu
+* Zhizhang Yuan
+* Shengze Xu
+* Junjie Wu
+* Yanan Zheng 

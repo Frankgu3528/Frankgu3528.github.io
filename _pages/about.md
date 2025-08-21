@@ -34,7 +34,7 @@ Previously, I have worked with Prof. [Arman Cohan](https://armancohan.com/) and 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/accio.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/accio.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' >
 
 Product-Searcher: Real-World E-commerce Product DeepSearch via Reinforcement Learning

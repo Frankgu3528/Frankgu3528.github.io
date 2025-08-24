@@ -25,7 +25,8 @@ Previously, I have worked with Prof. [Arman Cohan](https://armancohan.com/) and 
 
 
 # 🔥 News
-- *2025.08*: &nbsp; Serving as a reviewer for EMNLP Demo Track.
+- *2025.08*: &nbsp; Joining CMU as a master student!
+- *2025.07*: &nbsp; Serving as a reviewer for EMNLP Demo Track.
 - *2025.06*: &nbsp; One Paper (Product-Searcher) submitted to EMNLP Industry Track!
 - *2025.05*: &nbsp; One Paper (Ref-long) accepted by ACL main!
 - *2025.03*: &nbsp; Joining Alibaba Group as a Research Intern!

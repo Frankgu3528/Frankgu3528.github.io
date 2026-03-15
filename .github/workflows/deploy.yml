@@ -76,7 +76,7 @@ jobs:
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.3.5"
+          ruby-version: "3.2"
           bundler-cache: true
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
@@ -90,6 +90,9 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
+      - name: Fix Gemfile.lock platforms 🛠️
+        run: |
+          bundle lock --add-platform x86_64-linux
       - name: Install and Build 🔧
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
